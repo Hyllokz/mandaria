@@ -1,6 +1,5 @@
 > [!tip] 
 > Você pode fazer testes assim
-> 
 
 > [!todo] 
 > Ou assim...
